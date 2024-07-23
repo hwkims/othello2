@@ -178,3 +178,13 @@ body { background: url("omok.png") no-repeat;
   .winning-message.show {
     display: flex;
   }
+  .link{
+    position: absolute;
+    top: 372px;
+    left: 480px;
+    font-size: 13px;
+    font-style: normal;
+    color: black;
+    text-decoration: wavy;
+    z-index: 9999;
+  }
